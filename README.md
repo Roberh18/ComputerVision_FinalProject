@@ -1,6 +1,6 @@
-# IKT452 Computer Vision Project: Facial Emotion Recognition
+# IKT452 Computer Vision Project: Facial Expression Recognition
 
-This repository contains the code for a computer vision project focused on Facial Emotion Recognition using the FER2013 dataset and implemented with PyTorch. 
+This repository contains the code for a computer vision project focused on Facial Expression Recognition using the FER2013 and FERPlus datasets, implemented with PyTorch. 
 
 ## Project Structure
 
